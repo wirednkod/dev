@@ -84,7 +84,7 @@
     "jest-config": "^27.0.5",
     "jest-haste-map": "^27.0.5",
     "jest-resolve": "^27.0.5",
-    "madge": "^4.0.2",
+    "madge": "^5.0.1",
     "minimatch": "^3.0.4",
     "mkdirp": "^1.0.4",
     "prettier": "^2.3.1",
